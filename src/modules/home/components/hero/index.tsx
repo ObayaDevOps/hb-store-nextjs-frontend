@@ -10,7 +10,7 @@ const Hero = () => {
             level="h1"
             className="text-3xl leading-10 text-black font-normal"
           >
-            Uganda's Finest Honey
+            Uganda&apos;s Finest Honey
           </Heading>
           <Heading
             level="h2"

@@ -25,6 +25,10 @@ const nextConfig = withStoreConfig({
         hostname: "'cdn.sanity.io'",
       },
       {
+        protocol: "http",
+        hostname: "res.cloudinary.com",
+      },
+      {
         protocol: "https",
         hostname: "res.cloudinary.com",
       },
